@@ -1,5 +1,5 @@
-# Kalman-filtering
-Prediction of network bandwidth using Kalman filter
+#卡尔曼滤波器 Kalman-filtering 
+根据谷歌webrtc 模型，使用卡尔曼滤波器做带宽预测
 
 预测原理
 带宽估算模型
